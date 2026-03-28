@@ -32,68 +32,93 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [25 march 11:00 Am]
+**What I did**: Forked the repository and set up my student ID
 
 **Details**: 
+ -Created GitHub account with university email
+- Forked the starter repository
+- change student ID to my ID 445052117
 
-**Challenges**: 
+**Challenges**: no Challenges
 
-**Solution**: 
+**Solution**: no  Challenges
 
-**Time spent**: 
+**Time spent**: 1 hour  
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [26 march 1:00 pm]
+**What I did**: sing-in and clone the repository
 
 **Details**: 
+ing in to vs code using my git hub account 
+Create file to save repository 
+Make clone repository 
+Download Extensions
+Run the code
 
 **Challenges**: 
+the output format is appearing cluttered and disorganised
 
 **Solution**: 
+Chang the device language to English and change the font type of vs code
 
-**Time spent**: 
+**Time spent**: 3 hour
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [27 march 1:30 pm]
+**What I did**: Add feature 1 priority to code 
 
 **Details**: 
+1- edit code to add featur1 
+2- run the code and show the output
+3- make commit for feature 1
 
 **Challenges**: 
+Error for make commit because the git account is registered with my other account 
+So couldn’t create the commit
 
 **Solution**: 
+I search extensively for a solution to the problem 
+and make git unset old user nam 
+The make set user name for university account
 
-**Time spent**: 
+**Time spent**: 4 hour 
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [28 march 8:45 AM]
+**What I did**: add feature 2 implemented context switching counter 
 
 **Details**: 
+1- edit code to add featur2 
+2- run the code and show the output
+3- make commit for feature 2
 
-**Challenges**: 
+**Challenges**: Not understanding context switching
 
-**Solution**: 
+**Solution**:  Review the course slides and research the concept to be able to apply it.
 
-**Time spent**: 
+**Time spent**: 1 hour 
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [28 march 1:00 pm]
+**What I did**: added waiting time tracking and summary
 
 **Details**: 
+1- edit code to add featur3
+2- run the code and show the output
+3- make commit for feature 3
 
-**Challenges**: 
 
-**Solution**: 
+**Challenges**: Had a small issue with running the code
 
-**Time spent**: 
+**Solution**: Fixed it by correcting a minor mistake and running the code again
+
+**Time spent**: two and a half hours
 
 ---
 
