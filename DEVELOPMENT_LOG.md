@@ -52,7 +52,7 @@ Document your development process as you work on the assignment. Add entries sho
 **What I did**: sing-in and clone the repository
 
 **Details**: 
-ing in to vs code using my git hub account 
+sing in to vs code using my git hub account 
 Create file to save repository 
 Make clone repository 
 Download Extensions
