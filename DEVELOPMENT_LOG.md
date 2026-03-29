@@ -122,25 +122,31 @@ The make set user name for university account
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
+### Entry 6 - [29 march 5:55 pm]
+**What I did**: Video Demonstration
 
 **Details**: 
-
+Explanation of code and commit in GitHub
+Recording and displaying the output in VS Code
 **Challenges**: 
-
+Sound problems during recording
 **Solution**: 
-
+I re-recorded it several times until the sound became clear.
 **Time spent**: 
-
+ 1 hour
+ 
 ---
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [20 hours]
 
 **Most challenging part**: 
+Code Implementation And Git account settings
+
 
 **Most interesting learning**: 
+The most interesting part of the assignment was simulating Round-Robin scheduling and context switching.
 
 **What I would do differently next time**: 
+I would start earlier and test each part step by step to avoid confusion and make debugging easier.
